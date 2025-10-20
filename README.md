@@ -1,1 +1,1 @@
-# earn-with-tigroclub
+# tigroclub-landing
